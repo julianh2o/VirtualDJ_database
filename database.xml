@@ -2621,14 +2621,14 @@
   <Poi Pos="23.990567" Type="automix" Point="cutStart" />
   <Poi Name="Align out" Pos="183.689433" Num="4" Type="automix" Point="cutEnd" />
   <Poi Name="Vocal" Pos="38.987823" Num="2" Type="automix" Point="tempoStart" />
-  <Poi Name="Break 1" Pos="84.952381" Num="3" Type="remix" />
-  <Poi Pos="100.91610" Type="remix" Point="tempoEnd" Name="End Break 1" />
-  <Poi Pos="129.496961" Type="remix" Point="cutEnd" Name="Break 2" />
-  <Poi Pos="155.106395" Type="remix" Point="fadeEnd" Name="End Break 2" />
-  <Poi Pos="188.479274" Type="automix" Point="realEnd" />
+  <Poi Name="Break 1" Pos="166.733946" Num="3" Type="automix" Point="tempoEnd" />
+  <Poi Pos="100.91610" Type="remix" Point="cutEnd" Name="End Break 1" />
+  <Poi Pos="129.496961" Type="remix" Point="fadeEnd" Name="Break 2" />
+  <Poi Pos="155.106395" Type="remix" Point="realEnd" Name="End Break 2" />
   <Poi Pos="183.689433" Type="automix" Point="cutEnd" />
   <Poi Pos="38.987823" Type="automix" Point="tempoStart" />
   <Poi Pos="166.733946" Type="automix" Point="tempoEnd" />
+  <Poi Pos="188.479274" Type="automix" Point="realEnd" />
  </Song>
  <Song FilePath="M:\library\music_hq\VA - Armada Electronic Elements Essentials [Armada Electronic Elements] FLAC-2020\29-Le Youth - Aquiver (extended mix).flac" Flag="16">
   <Tags Author="Le Youth" Title="Aquiver (extended mix)" Remix="extended mix" TrackNumber="29" Flag="2" />
@@ -9613,13 +9613,13 @@
   <Poi Pos="296.777143" Type="automix" Point="realEnd" />
   <Poi Pos="0.062404" Type="automix" Point="fadeStart" Name="Align in" Num="1" />
   <Poi Name="Break 1" Pos="288.750000" Type="automix" Point="fadeEnd" />
-  <Poi Name="End Break 1" Pos="254.129342" Type="automix" Point="cutEnd" />
-  <Poi Pos="79.752993" Type="automix" Point="tempoStart" Name="Align out" Num="2" />
+  <Poi Name="End Break 1" Pos="32.409977" Type="automix" Point="cutStart" />
+  <Poi Pos="254.129342" Type="automix" Point="cutEnd" Name="Align out" Num="2" />
   <Poi Pos="227.881723" Type="automix" Point="tempoEnd" />
+  <Poi Pos="79.752993" Type="automix" Point="tempoStart" />
   <Poi Pos="288.750000" Type="automix" Point="fadeEnd" />
   <Poi Pos="32.409977" Type="automix" Point="cutStart" />
   <Poi Pos="254.129342" Type="automix" Point="cutEnd" />
-  <Poi Pos="79.752993" Type="automix" Point="tempoStart" />
  </Song>
  <Song FilePath="M:\library\music\music_hq\house\VA - Ministry Of Sound Deep House Anthems (2018)\Deep House Anthems CD3\02 MK - Burning (Vibe Mix).mp3" FileSize="8024934">
   <Tags Title="MK - Burning (Vibe Mix)" Genre="Deep House" Album="Deep House Anthems - Ministry of Sound" TrackNumber="116" Year="2018" Flag="1" Remix="Vibe Mix" />
@@ -11245,13 +11245,13 @@
   <Poi Pos="296.777143" Type="automix" Point="realEnd" />
   <Poi Pos="0.062404" Type="automix" Point="fadeStart" Name="Align in" Num="1" />
   <Poi Name="Break 1" Pos="288.750000" Type="automix" Point="fadeEnd" />
-  <Poi Name="End Break 1" Pos="254.129342" Type="automix" Point="cutEnd" />
-  <Poi Pos="79.752993" Type="automix" Point="tempoStart" Name="Align out" Num="2" />
+  <Poi Name="End Break 1" Pos="32.409977" Type="automix" Point="cutStart" />
+  <Poi Pos="254.129342" Type="automix" Point="cutEnd" Name="Align out" Num="2" />
   <Poi Pos="227.881723" Type="automix" Point="tempoEnd" />
+  <Poi Pos="79.752993" Type="automix" Point="tempoStart" />
   <Poi Pos="288.750000" Type="automix" Point="fadeEnd" />
   <Poi Pos="32.409977" Type="automix" Point="cutStart" />
   <Poi Pos="254.129342" Type="automix" Point="cutEnd" />
-  <Poi Pos="79.752993" Type="automix" Point="tempoStart" />
  </Song>
  <Song FilePath="M:\library\music\music_hq\house\Beatport Top 100 Melodic House And Techno (11th Nov 2019)\34. Zukunft (Original Mix).mp3" FileSize="12812238">
   <Tags Author="Gheist" Title="Zukunft (Original Mix)" Genre="Melodic House &amp; Techno" Album="Disc 2: Beatport Melodic House &amp; Techno (11th Nov 2K19)" Composer="Gheist" Label="Beatport" Remix="Original Mix" TrackNumber="34" Year="2019" Flag="1" />
@@ -12397,10 +12397,10 @@
   <Poi Name="Saved Loop 1" Pos="203.816440" Type="loop" Num="-1" Size="4.0" Slot="1" />
   <Poi Name="Alignment Point" Pos="213.382517" Type="cue" Num="2" />
   <Poi Name="End Break 2" Pos="217.171156" Type="remix" Size="4.0" Slot="1" Point="cutEnd" />
-  <Poi Pos="280.425941" Type="automix" Point="realEnd" Num="8" />
-  <Poi Pos="0.018730" Type="beatgrid" Point="fadeEnd" />
-  <Poi Pos="276.683175" Type="automix" Point="cutEnd" />
+  <Poi Pos="276.683175" Type="automix" Point="cutEnd" Num="8" />
   <Poi Pos="277.850" Type="automix" Point="fadeEnd" />
+  <Poi Pos="280.425941" Type="automix" Point="realEnd" />
+  <Poi Pos="0.018730" Type="beatgrid" Point="fadeEnd" />
   <Comment>Melodic, vocals</Comment>
  </Song>
  <Song FilePath="M:\library\music\music_hq\New folder\04 Gorgon City Feat. Yasmin - Real.mp3" FileSize="11057754">
@@ -17013,8 +17013,8 @@
   <Poi Pos="298.536644" Type="automix" Point="tempoEnd" Name="Break 1" />
   <Poi Pos="236.092517" Type="remix" Point="tempoEnd" Num="1" Name="End Break 1" />
   <Poi Pos="63.081565" Type="cue" />
+  <Poi Pos="204.576327" Type="cue" Point="tempoEnd" Num="2" />
   <Poi Pos="298.536644" Type="automix" Point="tempoEnd" />
-  <Poi Pos="204.576327" Num="2" Type="cue" />
  </Song>
  <Song FilePath="M:\library\music\music_hq\Beatport Top 100 September 2014 [EDM RG]\29. Alvaro &amp; Van Dalen - Oldskool  (Original Mix).mp3" FileSize="14184700">
   <Tags Author=" Alvaro &amp; Van Dalen" Title="Oldskool (Original Mix)" Genre="Electro House" Album="Oldskool" Label="http://vk.com/speeeedy" Remix="http://vk.com/speeeedy" TrackNumber="29" Year="2014" User1="Picks" Flag="1" Bpm="0.468750" Key="G" />
@@ -18645,7 +18645,7 @@
   <Poi Name="End Break 2" Pos="99.625941" Type="remix" Num="-1" Size="16.0" Slot="1" />
   <Poi Name="Saved Loop 1" Pos="115.303923" Type="loop" Point="tempoEnd" Size="16.0" Slot="1" />
   <Poi Pos="163.468481" Type="automix" Point="realEnd" />
-  <Poi Pos="0.027211" Type="beatgrid" Point="fadeEnd" />
+  <Poi Pos="0.027211" Type="beatgrid" Point="fadeEnd" Num="2" />
   <Poi Pos="140.661202" Type="automix" Point="tempoEnd" />
   <Poi Pos="145.949796" Type="cue" Point="cutEnd" />
   <Poi Pos="158.894875" Type="automix" Point="cutEnd" />
@@ -18880,11 +18880,11 @@
   <Poi Pos="223.717007" Type="remix" Point="cutEnd" Name="Break 1" />
   <Poi Pos="224.280499" Type="cue" Point="tempoEnd" Name="Align out" Num="5" />
   <Poi Pos="240.214059" Type="remix" Point="cutEnd" Name="End Break 1" />
-  <Poi Pos="342.562540" Type="automix" Point="realEnd" />
   <Poi Pos="320.216871" Type="automix" Point="tempoEnd" />
   <Poi Pos="335.716281" Type="automix" Point="cutEnd" />
-  <Poi Pos="1.716916" Type="automix" Point="tempoStart" />
   <Poi Pos="335.750" Type="automix" Point="fadeEnd" />
+  <Poi Pos="342.562540" Type="automix" Point="realEnd" />
+  <Poi Pos="1.716916" Type="automix" Point="tempoStart" />
   <Comment>Trop, vocals</Comment>
  </Song>
  <Song FilePath="M:\library\music\music_hq\Beatport Top 100 September 2014 [EDM RG]\33. The Magician feat. Olly Alexander from Years and Years - Sunlight (Extended Club Mix).mp3" FileSize="16123544">
@@ -19094,20 +19094,20 @@
   <Infos SongLength="240.0" FirstSeen="1592088218" FirstPlay="1592173589" LastPlay="1601763902" PlayCount="7" Bitrate="320" Cover="1" />
   <Scan Version="801" Bpm="0.491803" AltBpm="0.368855" Volume="1.182227" Key="Am" Flag="32768" />
   <Poi Pos="0.001270" Type="automix" Point="realStart" />
-  <Poi Pos="0.489796" Type="automix" Point="cutStart" />
-  <Poi Type="automix" Point="tempoStart" Pos="1.471429" Name="Break 1" />
+  <Poi Type="automix" Point="cutStart" Pos="0.489796" Name="Break 1" />
   <Poi Pos="47.285147" Type="cue" Point="tempoStart" Name="Align in" Num="1" />
-  <Poi Pos="78.675669" Type="cue" Point="cutStart" Name="Mix before" Num="2" />
-  <Poi Pos="78.688073" Type="remix" Point="cutEnd" Name="End Break 1" />
-  <Poi Pos="107.704308" Type="remix" Point="tempoStart" Name="Break 2" />
-  <Poi Pos="173.114195" Type="remix" Point="tempoEnd" Name="End Break 2" Num="3" />
-  <Poi Name="Align out" Pos="173.344059" Type="cue" Point="tempoEnd" />
-  <Poi Pos="215.901859" Type="automix" Point="tempoEnd" />
-  <Poi Pos="233.605079" Type="automix" Point="cutEnd" />
-  <Poi Type="automix" Point="realStart" />
-  <Poi Pos="236.050" Type="automix" Point="fadeEnd" />
-  <Poi Pos="239.994195" Type="automix" Point="realEnd" />
+  <Poi Pos="78.675669" Type="cue" Point="cutEnd" Name="Mix before" Num="2" />
+  <Poi Pos="78.688073" Type="remix" Point="tempoStart" Name="End Break 1" />
+  <Poi Pos="107.704308" Type="remix" Point="tempoEnd" Name="Break 2" Num="3" />
+  <Poi Name="End Break 2" Pos="173.114195" Type="remix" Point="tempoEnd" />
+  <Poi Pos="173.344059" Type="cue" Point="tempoEnd" Name="Align out" />
   <Poi Pos="1.471429" Type="automix" Point="tempoStart" />
+  <Poi Type="automix" Point="tempoEnd" Pos="215.901859" />
+  <Poi Pos="233.605079" Type="automix" Point="cutEnd" />
+  <Poi Pos="239.994195" Type="automix" Point="realEnd" />
+  <Poi Pos="236.050" Type="automix" Point="fadeEnd" />
+  <Poi Type="automix" Point="realStart" />
+  <Poi Pos="0.489796" Type="automix" Point="cutStart" />
  </Song>
  <Song FilePath="M:\library\music\music_hq\beatport\12391504_Rainforest_Original_Mix.mp3" FileSize="11047016">
   <Tags Author="Tchami" Title="Rainforest (Original Mix)" Genre="Future House" Album="Rainforest" Label="Confession" TrackNumber="1" Grouping="Confession" Year="2019" Bpm="0.476190" Flag="1" />
@@ -19159,11 +19159,11 @@
   <Poi Pos="201.748481" Type="cue" Point="cutStart" Name="Mix end" Num="5" />
   <Poi Pos="261.279138" Type="cue" Point="tempoEnd" Name="Align in (no kick)" Num="3" />
   <Poi Pos="303.483991" Type="cue" Point="fadeEnd" Name="Stop Looping" Num="2" />
-  <Poi Pos="308.183946" Type="automix" Point="cutEnd" />
   <Poi Pos="325.857234" Type="automix" Point="realEnd" />
-  <Poi Pos="33.621542" Type="automix" Point="tempoStart" />
   <Poi Pos="292.822358" Type="automix" Point="tempoEnd" />
   <Poi Pos="316.350" Type="automix" Point="fadeEnd" />
+  <Poi Pos="308.183946" Type="automix" Point="cutEnd" />
+  <Poi Pos="33.621542" Type="automix" Point="tempoStart" />
  </Song>
  <Song FilePath="M:\library\music\music_hq\VA - This Is Toolroom 2020 (unmixed tracks) [Toolroom] FLAC-2020\03-Gene Farris - Back In The Day (extended mix).flac" FileSize="50328836">
   <Tags Author="Gene Farris" Title="Back In The Day (extended mix)" Genre="Minimal/tech house" Album="This Is Toolroom 2020 (unmixed tracks)" Label="Toolroom" Remix="extended mix" TrackNumber="3" Bpm="0.487805" Flag="1" />

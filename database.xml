@@ -9663,9 +9663,9 @@
   <Poi Pos="137.413175" Type="automix" Point="tempoEnd" Name="Break 2" />
   <Poi Name="End Break 2" Pos="134.457324" Type="remix" Point="tempoEnd" />
   <Poi Name="Saved Loop 1" Pos="165.934218" Type="loop" Num="-1" Size="16.0" Slot="1" />
+  <Poi Pos="181.250" Type="automix" Point="fadeEnd" />
   <Poi Pos="137.413175" Type="automix" Point="tempoEnd" />
   <Poi Pos="165.932698" Type="automix" Point="cutEnd" />
-  <Poi Pos="181.250" Type="automix" Point="fadeEnd" />
  </Song>
  <Song FilePath="M:\library\music\music_hq\house\VA - Ministry Of Sound Deep House Anthems (2018)\Deep House Anthems CD1\02 Secondcity - I Wanna Feel.mp3" FileSize="7298310">
   <Tags Title="Secondcity - I Wanna Feel" Genre="Deep House" Album="Deep House Anthems - Ministry of Sound" TrackNumber="116" Year="2018" Flag="1" />
@@ -11165,10 +11165,10 @@
   <Poi Pos="319.996417" Type="automix" Point="tempoEnd" Name="Break 1" />
   <Poi Pos="228.561995" Type="remix" Point="tempoEnd" Name="Break 2" />
   <Poi Name="End Break 2" Pos="274.287891" Type="remix" Point="tempoEnd" />
-  <Poi Pos="395.511293" Type="automix" Point="realEnd" />
   <Poi Pos="334.756281" Type="automix" Point="cutEnd" />
   <Poi Pos="1.431927" Type="automix" Point="tempoStart" />
   <Poi Pos="319.996417" Type="automix" Point="tempoEnd" />
+  <Poi Pos="395.511293" Type="automix" Point="realEnd" />
  </Song>
  <Song FilePath="M:\library\music\music_hq\house\Beatport Top 100 Melodic House And Techno (11th Nov 2019)\13. Retrida (Original Mix).mp3" FileSize="20272424">
   <Tags Author="Angelov" Title="Retrida (Original Mix)" Genre="Melodic House &amp; Techno" Album="Disc 2: Beatport Melodic House &amp; Techno (11th Nov 2K19)" Composer="Angelov" Label="Beatport" Remix="Original Mix" TrackNumber="13" Year="2019" Flag="1" />
@@ -11664,12 +11664,12 @@
   <Poi Pos="207.785215" Type="automix" Point="cutEnd" Name="Break 2" />
   <Poi Pos="194.118050" Type="automix" Point="tempoEnd" Name="Break 1" />
   <Poi Pos="123.522177" Type="remix" Point="cutEnd" Name="End Break 2" />
-  <Poi Name="Saved Loop 1" Pos="197.637687" Type="loop" Num="-1" Size="16.0" Slot="1" />
-  <Poi Pos="207.80" Type="automix" Point="fadeStart" />
-  <Poi Pos="0.329433" Type="automix" Point="cutStart" />
+  <Poi Pos="197.637687" Type="loop" Point="tempoEnd" Name="Saved Loop 1" Num="-1" Size="16.0" Slot="1" />
   <Poi Pos="207.785215" Type="automix" Point="cutEnd" />
   <Poi Pos="194.118050" Type="automix" Point="tempoEnd" />
   <Poi Type="automix" Point="realStart" />
+  <Poi Pos="207.80" Type="automix" Point="fadeStart" />
+  <Poi Pos="0.329433" Type="automix" Point="cutStart" />
   <Comment>Purchased at Beatport.com</Comment>
  </Song>
  <Song FilePath="M:\library\music\music_hq\pop\Kygo - Golden Hour (Japanese Edition) - 2020 (320 kbps)\15. Kygo, Zara Larsson &amp; Tyga - Like It Is.mp3" FileSize="7424174">
@@ -13008,11 +13008,11 @@
   <Poi Pos="262.932608" Type="automix" Point="cutEnd" Name="Fin Mix" Num="2" />
   <Poi Pos="0.975646" Type="automix" Point="tempoStart" Name="End Break 1" />
   <Poi Pos="246.829501" Type="automix" Point="tempoEnd" Name="Break 1" Num="3" />
-  <Poi Pos="267.742041" Type="automix" Point="realEnd" />
-  <Poi Type="automix" Point="realStart" />
   <Poi Pos="0.975646" Type="automix" Point="tempoStart" />
   <Poi Pos="246.829501" Type="automix" Point="tempoEnd" />
   <Poi Pos="262.932608" Type="automix" Point="cutEnd" />
+  <Poi Pos="267.742041" Type="automix" Point="realEnd" />
+  <Poi Type="automix" Point="realStart" />
  </Song>
  <Song FilePath="M:\library\music\music_hq\Beatport Top 100 Techno January (2020)\35. Relax (Original Mix).mp3" FileSize="15129393">
   <Tags Author="Thomas Hoffknecht" Title="Relax (Original Mix)" Genre="Techno" Album="Beatport Top 100 Techno (13th Jan 2K20)" Composer="Thomas Hoffknecht" Remix="Original Mix" TrackNumber="35" Year="2020" Flag="1" />
@@ -17517,9 +17517,9 @@
   <Poi Pos="45.269478" Type="automix" Point="cutStart" Name="Fin" Num="2" />
   <Poi Pos="177.922902" Type="automix" Point="cutEnd" Name="Break 1" />
   <Poi Name="End Break 1" Pos="105.265488" Type="remix" Point="cutEnd" />
-  <Poi Pos="45.269478" Type="automix" Point="cutStart" />
   <Poi Pos="177.922902" Type="automix" Point="cutEnd" />
   <Poi Pos="182.707664" Type="automix" Point="realEnd" />
+  <Poi Pos="45.269478" Type="automix" Point="cutStart" />
  </Song>
  <Song FilePath="M:\library\music\music_hq\Beatport Top 100 September 2014 [EDM RG]\62. Dimitri Vangelis &amp; Wyman - ID2 (Original Mix).mp3" FileSize="14824145">
   <Tags Author="Dimitri Vangelis &amp; Wyman" Title="ID2 (Original Mix)" Genre="Progressive House" Album="ID2" Remix="Original Mix" TrackNumber="62" Year="2014" User1="Picks" Flag="1" Bpm="0.468750" Key="C" />
@@ -18716,9 +18716,9 @@
   <Poi Pos="234.372063" Type="automix" Point="cutEnd" Name="End Break 1" />
   <Poi Pos="61.868322" Type="automix" Point="tempoStart" Name="Align out" Num="1" />
   <Poi Pos="218.296712" Type="automix" Point="tempoEnd" />
+  <Poi Pos="234.372063" Type="automix" Point="cutEnd" />
   <Poi Pos="61.868322" Type="automix" Point="tempoStart" />
   <Poi Pos="27.578776" Type="automix" Point="cutStart" />
-  <Poi Pos="234.372063" Type="automix" Point="cutEnd" />
  </Song>
  <Song FilePath="M:\library\music\music_hq\Beatport Top 100 Techno January (2020)\29. Megatron (Original Mix).mp3" FileSize="13968910">
   <Tags Author="Johan De Vil" Title="Megatron (Original Mix)" Genre="Techno" Album="Beatport Top 100 Techno (13th Jan 2K20)" Composer="Johan De Vil" Remix="Original Mix" TrackNumber="29" Year="2020" Flag="1" />
